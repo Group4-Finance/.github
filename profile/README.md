@@ -68,6 +68,6 @@
 ## 📬 聯絡我們
 
 如對本專案有任何問題，歡迎聯絡我們：
-📧 Email：**njr201group4@gmail.com**
-👨‍💻 Maintainer：Group4-Finance 專案團隊
-🏗️ 本專案屬於資料工程學習與實作用途，若需協助請來信洽詢。
+-📧 Email：**njr201group4@gmail.com**
+-👨‍💻 Maintainer：Group4-Finance 專案團隊
+-🏗️ 本專案屬於資料工程學習與實作用途，若需協助請來信洽詢。
