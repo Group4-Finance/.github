@@ -44,13 +44,14 @@
 - 網路輿情來源：PTT 財經板（Stock）  
 - VIX 恐慌指數：Yahoo Finance
 
-## 🧰 技術架構（開發中）
+## 🧰 技術架構
 
 - 📦 爬蟲模組：自動抓取新聞、社群與價格資料  
 - 🧮 分數模型：自定義 Z-score 與權重組合邏輯  
-- 🐇 Celery + RabbitMQ：任務排程與非同步處理（模組化）  
-- 📊 Plotly：互動式圖表  
-- 📁 支援自動更新與資料存取 API（可擴充）  
+- 🐇 Celery + RabbitMQ：任務排程與非同步處理（模組化）
+- 🖥️ FastAPI : 資料讀取  
+- 📊 Redash：資料視覺化
+- 📈 Streamlit、Pyecharts：建立可視化儀表板  
 
 本專案是一個整合爬蟲、自動化資料處理、API 提供與視覺化分析的 ETF 決策輔助系統。  
 透過模組化設計與 Celery + RabbitMQ 任務管理，實現資料自動更新、查詢與展示。
