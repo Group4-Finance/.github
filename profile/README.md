@@ -56,6 +56,8 @@
 本專案是一個整合爬蟲、自動化資料處理、API 提供與視覺化分析的 ETF 決策輔助系統。  
 透過模組化設計與 Celery + RabbitMQ 任務管理，實現資料自動更新、查詢與展示。
 
+互動式網頁(可查詢股票資訊與進退場訊號): https://group4-finance.github.io/ReactToNetlify/ 
+
 詳細專案內容請見以下ppt:  |[Group4-Finance.pptx](https://github.com/user-attachments/files/22011834/Group4-Finance.pptx)
 
 
