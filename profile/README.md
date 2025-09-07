@@ -58,7 +58,7 @@
 
 互動式網頁(可查詢股票資訊與進退場訊號): https://group4-finance.github.io/ReactToNetlify/ 
 
-(目前正在更改GCP服務，API暫不供應，因此網頁無法查詢到資訊)
+(目前正在更改GCP服務，API暫不供應，因此網頁暫時無法查詢到資訊)
 
 詳細專案內容請見以下ppt:  |[Group4-Finance.pptx](https://github.com/user-attachments/files/22011834/Group4-Finance.pptx)
 
